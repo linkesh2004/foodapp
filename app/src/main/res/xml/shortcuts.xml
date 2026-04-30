@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="add_food"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_add_food"
+        android:shortcutLongLabel="@string/shortcut_add_food_long">
+
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.example.foodmenu.AddFoodActivity" />
+
+    </shortcut>
+
+</shortcuts>

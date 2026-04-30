@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389451364788",
+    "project_id": "foodmenu-ce2e4",
+    "storage_bucket": "foodmenu-ce2e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389451364788:android:2dc172ca3183739ff1dae1",
+        "android_client_info": {
+          "package_name": "com.example.foodmenu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1nfe94eYUOsNKScLhbxY5lqjHiP4XQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

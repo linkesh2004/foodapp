@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">food menu</string>
+    <string name="shortcut_add_food">Add Food</string>
+    <string name="shortcut_add_food_long">Add Food Item</string>
+</resources>
